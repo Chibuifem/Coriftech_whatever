@@ -1,0 +1,53 @@
+ div{
+    float: right;
+ }
+ /* div .rightdiv{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    margin-right: 20px;
+} */
+
+h5{
+    font-size: x-small;
+    font-weight: 100;
+    font-style: italic;
+}
+
+#para1{
+    color: blueviolet;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+}
+ul li{
+    list-style: none;
+    margin: 10;
+    padding: 10;   
+    overflow: hidden;
+    float: right;
+}
+li a {
+    display: block;
+    color:black;
+    text-align: right;
+    padding: 15px;
+    text-decoration: none;
+  }
+  
+  a:hover
+  {
+      background-color: blueviolet;
+      color: white;
+  }
+#fuck li{
+    float: right;
+    padding: 18px;
+   
+}
+form{
+    padding: right;
+    
+}

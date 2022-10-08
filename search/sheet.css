@@ -1,0 +1,11 @@
+img{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    float: left;
+    
+}
+#one{
+    text-align: center;
+    font-size: 30px;
+}

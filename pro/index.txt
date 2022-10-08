@@ -1,0 +1,26 @@
+<body>
+    <div class="navbar">
+        <div class="container flex">
+            <div>
+                <span>Design</span><span id="span">AGENCY</span>
+            </div>
+           
+            <nav>
+                <ul class="topnav">
+                    <li><select name="Select" id="">
+                        <option value="Service">Service</option>
+                    </select></li>
+                    <li><a href="">About Us</a></li>
+                    <li><a href="">Cotact Us</a></li>
+                </ul>
+            
+            </nav>
+            <ul>
+                <li><button class="btn1">Log in</button></li>
+            </ul>
+            <ul>
+                <li><button class="btn2">Register</button></li>
+            </ul>
+        </div>
+    </div> 
+</body>

@@ -1,0 +1,33 @@
+h1,p{
+    text-align: center;
+}
+.lab1{
+    padding-top: 8px;
+
+    
+}
+.lab1 input , select {
+margin: auto;
+padding: 4px;
+width: 90%;
+}
+.lab1 label{
+    margin-left: 10px;
+}
+li{
+    list-style: none;
+}
+div{
+    margin: auto;
+    width:378px;
+    border:1px solid black;
+}
+button{
+    background-color: rgb(21, 111, 184);
+    padding: auto;
+    color: white;
+    
+}
+div{
+    margin-top: 60px;
+}

@@ -1,0 +1,112 @@
+div.s-div{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: green;
+    color: white;
+}
+
+body{
+margin: 0px;
+font-family: arial;
+background-color: rgba(0, 0, 0, 0.829);
+}
+.main{
+    text-align: center;
+    list-style: none;
+    border: 0;
+    padding: 0%;
+}
+.last{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: rgba(128, 128, 128, 0.164);
+
+}
+.main li{
+    list-style: none;
+}
+li a {
+    display: block;
+    color:white;
+    padding: 0px;
+    text-decoration: none;
+  }
+  ul li .list{
+      float: left;
+  }
+  .list img{
+      float: right;
+      justify-content: space-between;
+      border-right: 20px;
+      
+  }
+  .main h1{
+      padding: 10px;
+      font-size: 60px;
+  }
+  .stuff li{
+width: 30px;
+border-radius: 20%;
+padding: 0%;
+  }
+  .main li{
+      padding: 10px;
+      background-color: transparent;
+  }
+.last li a{
+    padding:12px;
+    float: left;
+    color: white;
+}
+#search{
+    width: 260px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: transparent;
+    border: 1px solid white;
+}
+.main img{
+    justify-content: space-between;
+    border-radius: 50%;
+    border-color: transparent;
+}
+.main li input{
+    padding-top: 13px;
+    color: white;
+    border-radius: 5%;
+    background-color: transparent;
+    border: 1px solid;
+}
+para1{
+    color: white;
+    
+}
+
+a{
+    margin:5px;
+    text-decoration: none;
+    color: white;
+
+}
+a :hover{
+    text-decoration: underline;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.a{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+ padding-left: 20px;
+}
+ul > a, ul > img {
+    padding: 0 1px;
+}
+
+    
